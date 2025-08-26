@@ -1,0 +1,17 @@
+# ClemNova OS Project Configuration
+project:
+  name: public-files
+  type: portfolio-project
+  standards_version: "1.0"
+  
+compliance:
+  repository_structure: true
+  documentation_standards: true
+  automation_hooks: true
+
+automation:
+  health_checks: enabled
+  sync_tools: enabled
+  validation: enabled
+
+last_updated: 2025-08-26
